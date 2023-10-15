@@ -17,7 +17,9 @@
 ![image](https://github.com/schastlivayaa/Hamster-shop-administrator/assets/147999753/3c04a94d-a535-488e-b044-a6b96c818425)
 
 Окно редактирования выглядит следующим образом:
+
 ![image](https://github.com/schastlivayaa/Hamster-shop-administrator/assets/147999753/0b41aa25-6f3b-43bb-97fd-8f8932eeaf04)
+
 !Важно породы вводить через ;
 
 Поиск по породам осуществляется с помощью строки поиска внизу окна:
